@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\消除方块\消除方块\消除方块\源.cpp(146,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\消除方块\消除方块\消除方块\源.cpp(159,7): warning C4101: “data”: 未引用的局部变量
+D:\消除方块\消除方块\消除方块\源.cpp(192,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\消除方块\消除方块\消除方块\源.cpp(733,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\消除方块\消除方块\消除方块\源.cpp(795,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\消除方块\消除方块\消除方块\源.cpp(796,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  消除方块.vcxproj -> D:\消除方块\消除方块\x64\Debug\消除方块.exe
